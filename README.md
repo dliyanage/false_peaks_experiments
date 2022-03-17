@@ -13,7 +13,11 @@ For making data sharing possible, we provide the R workspaces (i.e. .Rda or .Rda
 
 Please note that you have to set ```REGENERATE_DATA = FALSE``` all times as we load the required data from above mentioned R workspaces.
 
-Important: Please unzip/extract the data from ```fuzz_data.zip``` file before running the notebook.
+- Important: 
+Please unzip/extract the data from ```fuzz_data.zip``` file before running the notebook.
+
+- Full data submission
+We will submit ```full data``` and all the artifacts through Zenodo for long term archival.
 
 ### Figures
 All the figures are saved to ```./figures``` directory
