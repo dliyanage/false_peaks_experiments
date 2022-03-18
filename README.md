@@ -16,7 +16,7 @@ Please note that you have to set ```REGENERATE_DATA = FALSE``` all times as we l
 - Important: 
 Please unzip/extract the data from ```fuzz_data.zip``` file before running the notebook.
 
-- Full data submission
+- Full data submission:
 We will submit ```full data``` and all the artifacts through Zenodo for long term archival.
 
 ### Figures
